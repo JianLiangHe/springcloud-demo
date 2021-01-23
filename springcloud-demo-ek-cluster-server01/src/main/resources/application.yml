@@ -1,0 +1,11 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: ekServer1
+eureka:
+  instance:
+    hostname: ekServer1
+  client:
+    service-url:
+      defaultZone: http://ekServer2:8020/eureka/

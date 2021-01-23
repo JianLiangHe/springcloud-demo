@@ -16,6 +16,8 @@
   	<module>springcloud-demo-eureka-server</module>
   	<module>springcloud-demo-eureka-consumer01</module>
   	<module>springcloud-demo-eureka-consumer02</module>
+  	<module>springcloud-demo-ek-cluster-server01</module>
+  	<module>springcloud-demo-ek-cluster-server02</module>
   </modules>
   
   <!-- <dependencyManagement>
